@@ -1,6 +1,8 @@
 <h2 align=center><b>ProjectX-DCC</b></h2>
 
 <h2 align=center><b>DCC - a camera height changer for Dot@2</b></h2>
+### Dev
+- [ Facebook ](https://wwww.facebook.com/kthdavidx)
 
 ### Download
 | Mod Version| Version | Link |
@@ -18,6 +20,3 @@
 
 
 ![Image Link](https://github.com/unrealisticfaces/ProjectX-DCC/blob/main/images/6.png)
-
-### Dev
-- [ Facebook ](https://wwww.facebook.com/kthdavidx)
