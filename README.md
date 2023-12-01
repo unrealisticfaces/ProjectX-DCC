@@ -1,5 +1,7 @@
 <h2 align=center><b>ProjectX-DCC</b></h2>
 
+<h2 align=center><b>DCC - a camera height changer for Dot@2</b></h2>
+
 ### Download
 | Mod Version| Version | Link |
 |----------|-------------|-----------------|
@@ -10,6 +12,12 @@
 
 ![Image Link](https://github.com/unrealisticfaces/ProjectX-DCC/blob/main/images/dota2%20camera%20changer.PNG)
 
-### Dev
+### Samples
 
+![Image Link](https://github.com/unrealisticfaces/ProjectX-DCC/blob/main/images/5.png)
+
+
+![Image Link](https://github.com/unrealisticfaces/ProjectX-DCC/blob/main/images/6.png)
+
+### Dev
 - [ Facebook ](https://wwww.facebook.com/kthdavidx)
